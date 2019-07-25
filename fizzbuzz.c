@@ -1,3 +1,5 @@
+//Made for https://www.youtube.com/watch?v=QPZ0pIK_wsc
+
 #include <stdio.h>
 
 void fizzbuzz(int a);
